@@ -113,16 +113,16 @@ File `backend/request.rest` juga tersedia untuk mencoba endpoint melalui ekstens
 
 ### Daftar pengguna
 
-![Halaman daftar pengguna](../screenshot/List%20User.png)
+![Halaman daftar pengguna](screenshot/List%20User.png)
 
 ### Form tambah pengguna
 
-![Form tambah pengguna](../screenshot/form%20add.png)
+![Form tambah pengguna](screenshot/form%20add.png)
 
 ### Form edit pengguna
 
-![Form edit pengguna](../screenshot/form%20edit.png)
+![Form edit pengguna](screenshot/form%20edit.png)
 
 ### Konfirmasi hapus pengguna
 
-![Konfirmasi hapus pengguna](../screenshot/aksi%20delete.png)
+![Konfirmasi hapus pengguna](screenshot/aksi%20delete.png)
